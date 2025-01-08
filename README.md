@@ -1,7 +1,6 @@
 # Hi there, I'm Sourav Das Tivro! 👋  
 
-![Banner](https://i.ibb.co.com/QmS5knw/57-E0495-D-2876-43-DF-BFA6-926610-DF2-CC4.png)  
-<!-- Replace the placeholder link with your custom banner image link -->
+<img src="https://i.ibb.co/QmS5knw/57-E0495-D-2876-43-DF-BFA6-926610-DF2-CC4.png" alt="Banner" style="width:100%; height:auto;">
 
 ### 🚀 Frontend Web Developer | Passionate Learner | Open Source Contributor  
 
@@ -39,7 +38,7 @@ Welcome to my GitHub profile! I am a dedicated Frontend Web Developer with exper
 ## 🐍 Contribution Snake  
 
 <div align="center">  
-  ![Snake animation](https://github.com/Tivro1/Tivro1/blob/output/github-contribution-grid-snake.svg)  
+  <img src="https://github.com/Tivro1/Tivro1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />  
 </div>  
 
 ---
@@ -54,9 +53,9 @@ Welcome to my GitHub profile! I am a dedicated Frontend Web Developer with exper
 ## 📫 Connect with Me  
 
 <div align="center">  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tivro1)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-das-tivro-63883b28a)  
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com) <!-- Replace with your Facebook profile link -->  
+  <a href="https://github.com/Tivro1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
+  <a href="https://www.linkedin.com/in/sourav-das-tivro-63883b28a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> <!-- Replace with your Facebook profile link -->  
 </div>  
 
 ---
