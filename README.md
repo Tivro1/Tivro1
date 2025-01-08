@@ -7,6 +7,10 @@
 Welcome to my GitHub profile! I am a dedicated Frontend Web Developer with expertise in creating dynamic, responsive, and user-friendly web applications. My goal is to craft seamless user experiences with clean, efficient, and scalable code.  
 
 ---
+## Abouy Me >
+<p align="left">✨ Creating bugs since my first line of code.<br>📚 I'm currently learning backend development and mastering Axios interceptors.<br>🎯 Goals: To build scalable, performant web applications and contribute to impactful open-source projects.<br>🎲 Fun fact: I once spent an entire day debugging a single line of code (worth it!).</p>
+
+##
 
 ## 🛠️ Tech Stack  
 
