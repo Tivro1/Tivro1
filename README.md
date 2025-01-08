@@ -28,10 +28,7 @@ Welcome to my GitHub profile! I am a dedicated Frontend Web Developer with exper
 
 ## 📈 GitHub Stats  
 
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tivro1&show_icons=true&hide_border=true&theme=radical" />  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tivro1&hide_border=true&theme=radical" />  
-</div>  
+
 
 ---
 
@@ -46,10 +43,6 @@ Welcome to my GitHub profile! I am a dedicated Frontend Web Developer with exper
 
 ---
 
-## 🌟 Featured Projects  
-
-- **[Visa Navigator](https://hnnavigate.vercel.app):** A user-friendly portal to simplify visa processes.  
-- **Library Management Website:** A feature-rich system for book tracking and management.  
 
 ---
 
