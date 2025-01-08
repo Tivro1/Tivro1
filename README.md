@@ -1,6 +1,6 @@
 # Hi there, I'm Sourav Das Tivro! 👋  
 
-![Banner]([https://via.placeholder.com/1200x400?text=Your+Banner+Image+Here](https://i.ibb.co.com/QmS5knw/57-E0495-D-2876-43-DF-BFA6-926610-DF2-CC4.png))  
+![Banner](https://i.ibb.co.com/QmS5knw/57-E0495-D-2876-43-DF-BFA6-926610-DF2-CC4.png)  
 <!-- Replace the placeholder link with your custom banner image link -->
 
 ### 🚀 Frontend Web Developer | Passionate Learner | Open Source Contributor  
